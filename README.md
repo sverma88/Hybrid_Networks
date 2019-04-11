@@ -1,6 +1,5 @@
 # Hybrid_Networks
-Hybrid Networks: Improving Deep Learning via Integrating Two Views of Images, ICONIP'18 
-Matlab Codes for the paper https://link.springer.com/chapter/10.1007/978-3-030-04167-0_5
+Hybrid Networks: Improving Deep Learning via Integrating Two Views of Images, ICONIP'18, https://link.springer.com/chapter/10.1007/978-3-030-04167-0_5
 
 
 # Requirements
