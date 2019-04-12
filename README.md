@@ -1,5 +1,9 @@
 # Hybrid_Networks
-Hybrid Networks: Improving Deep Learning via Integrating Two Views of Images, ICONIP'18, https://link.springer.com/chapter/10.1007/978-3-030-04167-0_5
+Hybrid Networks: Improving Deep Learning via Integrating Two Views of Images, ICONIP'18, https://link.springer.com/chapter/10.1007/978-3-030-04167-0_5. <br />
+
+Please cite our paper if you utilize the codes.
+
+## HDNet_Cifar10.m is the main script to run Hybrid Networks
 
 
 # Requirements
